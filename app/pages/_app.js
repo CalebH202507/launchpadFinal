@@ -5,9 +5,9 @@ import { WalletModalProvider } from "@solana/wallet-adapter-react-ui";
 import { PhantomWalletAdapter } from "@solana/wallet-adapter-wallets";
 import { ConnectionProvider, WalletProvider } from "@solana/wallet-adapter-react";
 
-import "../styles/App.css";
+
 import "../styles/globals.css";
-import "../styles/CandyMachine.css";
+
 import "@solana/wallet-adapter-react-ui/styles.css";
 
 const App = ({ Component, pageProps }) => {

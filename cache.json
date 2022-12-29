@@ -1,0 +1,33 @@
+{
+  "program": {
+    "candyMachine": "Ac1hrPRybzkfdFP26qVXTjSUd5cZCZruRD5MJownyDoD",
+    "candyMachineCreator": "wYSHPcHrsVq334o5gJSmiEY13exbtvRKubF3V4RGaKH",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Jotaro",
+      "image_hash": "4220a68ecf996dfad330a3f65ea4ddbf8ebbde3754b1dd2f003012b41dec54c1",
+      "image_link": "https://gateway.pinata.cloud/ipfs/QmbfuBKgwjxM1bJXr9xgufFuB9e85L7hHTaXQ6djPz476L/0.png",
+      "metadata_hash": "45ad42787c3d19c58bde6cfe53296ec8c2d385e49e65322a7c2623991774d7f0",
+      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmRVakdPsC7Ta9guRM775jpASXAxCXCxvBf3iXFDYEYJ1B/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "Josuke",
+      "image_hash": "84c3bd02d96900798773818a188f1bd558ee6e485c43b6f454bed5ec6d38ec0f",
+      "image_link": "https://gateway.pinata.cloud/ipfs/QmfQstx8mhkULwQDNvSeYPkLPKkyWmivprnm6QVFeKfCx8/1.png",
+      "metadata_hash": "230a57977507dcf81d12602ff8522348fb7df7aa22865db95ef401c2aa509066",
+      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmaiKdzEfYn825389NysGagDg2FLnFHYQxzGXZNUi4MJvj/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "Giorno",
+      "image_hash": "8389183c3ce21cb7c678d132d46a3265a4eeb8e52b4d128768e4f6c1d7e69cfd",
+      "image_link": "https://gateway.pinata.cloud/ipfs/QmVnuJwru4jUUPBRNLxrRb7VhcNbvjQkaAVZncTEYmdC4r/2.png",
+      "metadata_hash": "4a602f3b6a284bd83cade97ec17619dc278bcf5c1727cae626188afd444ffc73",
+      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmVJjbKKc7H8GynEng8hr5M21Bh5WKTiMrnchsa4TndfYW/2.json",
+      "onChain": true
+    }
+  }
+}

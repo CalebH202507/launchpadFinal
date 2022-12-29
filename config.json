@@ -1,0 +1,30 @@
+{
+    "price": 0.01,
+    "number": 3,
+    "gatekeeper": null,
+    "creators": [
+      {
+        "address": "CeEUz7TmjhKpivwYMmzrwcHq9rgHBynme6gfUGZrsGvL",
+        "share": 100
+      }
+    ],
+    "solTreasuryAccount": "CeEUz7TmjhKpivwYMmzrwcHq9rgHBynme6gfUGZrsGvL",
+    "splTokenAccount": null,
+    "splToken": null,
+    "goLiveDate": "2022-12-29T00:00:00+00:00",  
+    "endSettings": null,
+    "whitelistMintSettings": null,
+    "hiddenSettings": null,
+    "freezeTime": null,
+    "uploadMethod": "pinata",
+    "retainAuthority": true,
+    "isMutable": true,
+    "symbol": "NB",
+    "sellerFeeBasisPoints": 1,
+    "pinataConfig": {
+        "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiI1ZjhlMDAzNi1iZDc5LTQ3NmMtOWI3OC1kN2U2MjFiM2Q3M2EiLCJlbWFpbCI6IjE2eDMyeDY0bEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwicGluX3BvbGljeSI6eyJyZWdpb25zIjpbeyJpZCI6IkZSQTEiLCJkZXNpcmVkUmVwbGljYXRpb25Db3VudCI6MX0seyJpZCI6Ik5ZQzEiLCJkZXNpcmVkUmVwbGljYXRpb25Db3VudCI6MX1dLCJ2ZXJzaW9uIjoxfSwibWZhX2VuYWJsZWQiOmZhbHNlLCJzdGF0dXMiOiJBQ1RJVkUifSwiYXV0aGVudGljYXRpb25UeXBlIjoic2NvcGVkS2V5Iiwic2NvcGVkS2V5S2V5IjoiOGQzYmEyNDQzMDFkN2VlN2QxOTQiLCJzY29wZWRLZXlTZWNyZXQiOiI1YjgyNTZmMWIyMjczNDc5NGZkMjkxZDFiOWQ2MzEwMzFmZDgzZWZjOTJhYjRiYzhiNTc1NTcxZjQ0NDU4ZDg2IiwiaWF0IjoxNjcyMjk0ODA4fQ.8AJT25zAK7YlKbdKSneRjbgv9LVDHUZLNHcZzWdfips",
+        "apiGateway": "https://api.pinata.cloud",
+        "contentGateway": "https://gateway.pinata.cloud"
+    },
+    "shdwStorageAccount": null
+  }
