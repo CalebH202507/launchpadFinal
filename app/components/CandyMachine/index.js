@@ -351,39 +351,33 @@ const getCandyMachineState = async () => {
         }
       
         // Else let's just return the current drop date
-        return <p className='text-white'>{`Drop Date: ${candyMachine.state.goLiveDateTimeString}`}🎉</p>;
+        return <p className='text-white text-xl font-light text-center mb-[5vh]'>{`Drop Date: ${candyMachine.state.goLiveDateTimeString}`}</p>;
       };
 
 
       return (
         candyMachine && candyMachine.state && (
-          <div className="machine-container">
+          <div className="">
             {renderDropTimer()}
-            <p className='text-center text-white'>{`Items Minted: ${candyMachine.state.itemsRedeemed} / ${candyMachine.state.itemsAvailable}`}</p>
+            <p className='text-center text-white font-light mt-[-20px]'>{`NFTs Minted: ${candyMachine.state.itemsRedeemed} / ${candyMachine.state.itemsAvailable}`}</p>
               {/* Check to see if these properties are equal! */}
               {candyMachine.state.itemsRedeemed === candyMachine.state.itemsAvailable ? (
-                <p className="my-[5vh] text-white text-center rounded-lg bg-red-500">Sold Out 🙊</p>
+                <p className="my-[5vh] text-white text-center font-light rounded-lg bg-red-500">Sold Out 🙊</p>
               ) : ( isbeforeTime==true ? '' :
+              <div className='flex'>
                 <button
-                  className="mx-auto text-2xl w-full bg-indigo-500 p-2 text-white rounded-md"
+                  className=" mx-auto px-5 font-light text-2xl inline-block bg-[#ffff] p-2 text-[#da392b] rounded-full mt-[0px]"
                   onClick={mintToken}
                 >
                   Mint NFT
                 </button> 
+                </div>
               )}
           </div>
         )
       );
 };
 
-{/*<div className="machine-container">
-             {renderDropTimer()}
-            <p className='text-center text-white'>Items Minted:</p>
-            <div className='flex'>
-            <button className="mx-auto text-2xl w-full bg-indigo-500 p-2 text-white rounded-md" onClick={mintToken}>
-                Mint NFT
-            </button>
-            </div>
-        </div> */}
+
 
 export default CandyMachine;

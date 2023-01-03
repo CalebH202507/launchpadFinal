@@ -1,32 +1,88 @@
 {
   "program": {
-    "candyMachine": "F2p9X7vRETmJ4sfVwpWce4XDzS5BMsQZWJfLyXWzS8t9",
-    "candyMachineCreator": "8D2oSo7KTui8FftDQK5omufpsb3AuQE6fxD6C95jJ7Gc",
+    "candyMachine": "4SeUeibARGcZrC72U8ztiSWVFWNMk91qgcBEMMHyMdo1",
+    "candyMachineCreator": "D9LWbHz4rdtChvpj6nbSgSSDS6aj3UD4fM9kBwPtoRrq",
     "collectionMint": ""
   },
   "items": {
     "0": {
-      "name": "Jotaro",
-      "image_hash": "4220a68ecf996dfad330a3f65ea4ddbf8ebbde3754b1dd2f003012b41dec54c1",
-      "image_link": "https://gateway.pinata.cloud/ipfs/QmbfuBKgwjxM1bJXr9xgufFuB9e85L7hHTaXQ6djPz476L/0.png",
-      "metadata_hash": "45ad42787c3d19c58bde6cfe53296ec8c2d385e49e65322a7c2623991774d7f0",
-      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmRVakdPsC7Ta9guRM775jpASXAxCXCxvBf3iXFDYEYJ1B/0.json",
+      "name": "Googles #0",
+      "image_hash": "866fccf73c3a36c8d982e52d7c4e05ce027542d4d4d86ece23f55425f9abf269",
+      "image_link": "https://gateway.pinata.cloud/ipfs/Qme1WC3SKqWn6H4Sf1DfXgkmPevxgLqM8txgXVgjVe5Wqu/0.png",
+      "metadata_hash": "33a8998c56cc5629d2b53eacabbf6ec9390c888214289600a83348fcac67f3f4",
+      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmNih2NDoRGmd9YeCSJPVuPZcVHJ38ttbQKY4Mp3YRXvz5/0.json",
       "onChain": true
     },
     "1": {
-      "name": "Josuke",
-      "image_hash": "84c3bd02d96900798773818a188f1bd558ee6e485c43b6f454bed5ec6d38ec0f",
-      "image_link": "https://gateway.pinata.cloud/ipfs/QmfQstx8mhkULwQDNvSeYPkLPKkyWmivprnm6QVFeKfCx8/1.png",
-      "metadata_hash": "230a57977507dcf81d12602ff8522348fb7df7aa22865db95ef401c2aa509066",
-      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmaiKdzEfYn825389NysGagDg2FLnFHYQxzGXZNUi4MJvj/1.json",
+      "name": "Googles #1",
+      "image_hash": "044b817bcd00ca5b484c81d8c9036805c9d61e3444b72dc1b23ffca79f66e592",
+      "image_link": "https://gateway.pinata.cloud/ipfs/QmZC9GeKFvwPxTdfFAyPoP5gbEKAF9bM9NGFKVze1csxsj/1.png",
+      "metadata_hash": "d4e0bb07279884207f62a5324e45f4afc2a07c5e1e0a3f79a65c746b75321b28",
+      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmUodqAtRUvtSJYV1tFYxANLteJXsKFxTq936n6682vqTt/1.json",
       "onChain": true
     },
     "2": {
-      "name": "Giorno",
-      "image_hash": "8389183c3ce21cb7c678d132d46a3265a4eeb8e52b4d128768e4f6c1d7e69cfd",
-      "image_link": "https://gateway.pinata.cloud/ipfs/QmVnuJwru4jUUPBRNLxrRb7VhcNbvjQkaAVZncTEYmdC4r/2.png",
-      "metadata_hash": "4a602f3b6a284bd83cade97ec17619dc278bcf5c1727cae626188afd444ffc73",
-      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmVJjbKKc7H8GynEng8hr5M21Bh5WKTiMrnchsa4TndfYW/2.json",
+      "name": "Googles #2",
+      "image_hash": "ac46ecbcf4f500aefd7448e965a7352b45855a3990ab6c6bfbc988052c28d454",
+      "image_link": "https://gateway.pinata.cloud/ipfs/QmS4xUbjx5oANkUarm44F9JybF8nSBfSSFC4eWGCGqoiE1/2.png",
+      "metadata_hash": "36cfafaf94d05d91fcb47a003e63cdbf7cd141f9c887ccfc4bf72ae97b39ca4b",
+      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmZiCWtr7vhg8NdTkoMb2JXtWhMSgJoL2GyErDJwKgLjG6/2.json",
+      "onChain": true
+    },
+    "3": {
+      "name": "Googles #3",
+      "image_hash": "df8ba50c18567289e51c2cd7e937e3ebbc6ae5c8fc8b125a785bc4da891d6de2",
+      "image_link": "https://gateway.pinata.cloud/ipfs/QmSviW4vjfyS33V1VzYhAGDsy4oC5xDk6mf7U9s6QuC48V/3.png",
+      "metadata_hash": "ff00758c4377b365c818777c5e36ca39e8016cd841043cde57f3ec894721759a",
+      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmczBbmh3D3nBjRjw9XwwbrFQYkkawXs8r9K58RXeXUjHb/3.json",
+      "onChain": true
+    },
+    "4": {
+      "name": "Googles #4",
+      "image_hash": "4778e7c64c89a73a0c80b9237f2e07c2cb8a4e9ac67f988cdf48268216c3bf38",
+      "image_link": "https://gateway.pinata.cloud/ipfs/QmQCuJS3XsSMsXGG6cJZEFmjkYe3qXomUGn2CS9xfaQifd/4.png",
+      "metadata_hash": "f2b52195330390fdfb573bece318ff9582dab639666f32deeb71bcbed3a1a047",
+      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmSBXb4vte1wCDcb2YawyvVTx2MfN6TPfPKjWGhTwhi59m/4.json",
+      "onChain": true
+    },
+    "5": {
+      "name": "Googles #5",
+      "image_hash": "f99e0fb1d3465b9e9f4487e52d204eb53ef58f3366a20441549342dfe60316d6",
+      "image_link": "https://gateway.pinata.cloud/ipfs/QmTokA9YKZW1gSrwPq5dNZakHpNSW5bNiDtBTipysg7BeB/5.png",
+      "metadata_hash": "f84774cb217912a12707968b774b37ba117f18d6d4c7a82d161e12d8ef774c52",
+      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmS4C9bFYK3g3HgeAwEYYQJCcQqAu93gpVuxhLf4KoUDBe/5.json",
+      "onChain": true
+    },
+    "6": {
+      "name": "Googles #6",
+      "image_hash": "34e58e418fc9400421524d2bea89a77ae27fef2d72e472664041059d7ed1af3a",
+      "image_link": "https://gateway.pinata.cloud/ipfs/QmSxPPcPUbAwEppEE3hHrVN1Dt8JR42vHRwff556UPPq7C/6.png",
+      "metadata_hash": "5c9417f77e2b91a37905d3aa1bae031c7e3e971e2fe672cff8f287afde5a8f41",
+      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmZ2D9MfLCuqwwZYDYmikjgEYLxBF14YMCXBvREM4UjXgc/6.json",
+      "onChain": true
+    },
+    "7": {
+      "name": "Googles #7",
+      "image_hash": "58add24ed13853abe903a585fa515cf41a3c4489f2e016a432b85c4fec22615a",
+      "image_link": "https://gateway.pinata.cloud/ipfs/QmRaES9qPunDwL5h3cyfB8LUBMgobaCBhGKSjCjsg72g8W/7.png",
+      "metadata_hash": "4889b4575fc7a3ba7afebc557d2e24bc8bb43bf9b85cb9dbdcd685aa2471803e",
+      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmfKJdvfRsY7GdQUhvJZLsNgis2w2j42UfYpjyK2TcScQj/7.json",
+      "onChain": true
+    },
+    "8": {
+      "name": "Googles #8",
+      "image_hash": "af03ea23c8ee2c965dc31b628cbeddc903dd490a9e7611627f4f4245a6042b0c",
+      "image_link": "https://gateway.pinata.cloud/ipfs/QmWTPY8AfWBXmpy3uq3r1xjxmzvNRSJyb837NNXqvE92Zh/8.png",
+      "metadata_hash": "67885db7d9847d191ad74f8cf1d07dbd53fcb9ce712e3832b484de53b6c1c187",
+      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmR7MAQNUMBkLnD32vmX1iqfNtRqEYx1BRYfsRovZ9KGdP/8.json",
+      "onChain": true
+    },
+    "9": {
+      "name": "Googles #9",
+      "image_hash": "3ae8d24f32b6ca0a069306eaa32f31e4bf21d1e994fa0ef7c9a8e1e3f4f6712d",
+      "image_link": "https://gateway.pinata.cloud/ipfs/QmTuEHXsaN59hD28y19suBPuFaCyVisxJGs5ViarzYjG3z/9.png",
+      "metadata_hash": "2351a28300ddcd9cfbd3466be5cf4fadd05e9f4e09d6503bd4f52ac1b446d03e",
+      "metadata_link": "https://gateway.pinata.cloud/ipfs/QmSnB8kkMPznWMkmRKkoqJoDJVJoPREVzSCwucvcecLMha/9.json",
       "onChain": true
     }
   }

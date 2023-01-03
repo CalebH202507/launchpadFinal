@@ -34,8 +34,8 @@ const CountdownTimer = ({ dropDate }) => {
 
   return (
     <div className="text-white text-center">
-      <p className="mt-[5vh]">Candy Drop Starting In</p>
-      {timerString && <p className="text-5xl text-white ">{`⏰ ${timerString}`}</p>}
+      <p className="mt-[5vh] font-light">Drop Starting In</p>
+      {timerString && <p className="text-5xl font-light text-white ">{`⏰ ${timerString}`}</p>}
     </div>
   );
 };
